@@ -3,9 +3,6 @@ package com.j2wassignment.test;
 import org.json.simple.parser.ParseException;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
-import com.beust.jcommander.Parameter;
-
 import java.io.IOException;
 
 /**
